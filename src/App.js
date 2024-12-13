@@ -11,7 +11,7 @@ const emojisList = [
   },
   {
     id: 1,
-    emojiName: 'Face with head bandage',
+    emojiName: 'Face with head bandage and bandage',
     emojiUrl:
       'https://assets.ccbp.in/frontend/react-js/face-with-head-bandage-img.png',
   },
